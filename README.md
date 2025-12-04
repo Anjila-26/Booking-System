@@ -1,4 +1,4 @@
-# Task 3: Customer Support Chatbot
+# Customer Support Chatbot
 
 ## Overview
 
